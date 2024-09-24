@@ -1,0 +1,2 @@
+I developed a Netflix recreation that includes several functional sections, mimicking the user interface and interactive elements. The project features working navigation, a responsive layout, and content browsing sections. It's designed to replicate the streaming experience, providing a hands-on demonstration of UI/UX concepts.
+It's not fully complete as some files are empty , but it will be completed shortly.(Project Timeframe :2 Days)
